@@ -9,6 +9,8 @@
   <ItemGroup>
     <Folder Include="Base\" />
     <Folder Include="Interfaces\" />
+    <Folder Include="Entities\" />
+    <Folder Include="ValueObjects\" />
     <Folder Include="Shared\" />
   </ItemGroup>
 
